@@ -1,0 +1,64 @@
+.logo-docplanner{
+    width: 268px;
+    height: 33px; 
+}
+.main-header{
+display: flex;
+flex-direction: row;
+}
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 80%;
+    list-style: none;
+}
+.main-nav ul{
+    display: flex;
+    gap: 20PX;
+    list-style: none;
+    
+}
+.main-nav ul li a{
+    text-decoration: none;
+    font-family: font-family: 'Roboto', sans-serif;
+    color: #00b39b;
+}
+body{
+    width: 60%;
+    margin:auto
+ }
+.is-current{
+    color: #00b39b;
+    ;
+
+}
+.contenaire{
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+}
+.class1{
+    background-color:#00b39b;
+    padding: 80PX;
+}
+.class2{
+    background-color: #747474;
+padding: 80px;
+font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+}
+.class3{
+background-color: #1b2734;
+padding: 80px;
+}
+.h1{
+    color: #00b39b;
+}
+.classgg{
+    color: aquamarine;
+}
+.col-1{
+    display: flex;
+    
+}
